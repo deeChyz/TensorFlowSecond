@@ -36,3 +36,15 @@
 
 График функции потерь
 ![Image alt](https://github.com/deeChyz/TensorFlowSecond/blob/master/ep_loss_9_10_3_122.jpg)
+
+2. lr == 1*10^-9
+
+![Image alt](https://github.com/deeChyz/TensorFlowSecond/blob/master/add7.jpg)
+
+2. lr == 1*10^-8
+
+![Image alt](https://github.com/deeChyz/TensorFlowSecond/blob/master/add8.jpg)
+
+2. lr == 1*10^-7
+
+![Image alt](https://github.com/deeChyz/TensorFlowSecond/blob/master/add9.jpg)
